@@ -1,0 +1,9 @@
+{
+  "uuid": "ryzenadj@gomesar9",
+  "name": "Ryzen Monitor",
+  "version": "0.1.0",
+  "description": "Configurando ryzen",
+  "icon": "system-run",
+  "author": "gomesar9",
+  "max-instances": -1
+}

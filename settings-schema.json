@@ -1,0 +1,34 @@
+{
+  "head": {
+    "type": "header",
+    "description": "Settings"
+  },
+  "refresh-interval": {
+    "type": "spinbutton",
+    "default": 1500,
+    "min": 1000,
+    "max": 10000,
+    "step": 500,
+    "units": "milliseconds",
+    "description": "Refresh interval",
+    "tooltip": "Time between data refeshes"
+  },
+  "decimal-places": {
+    "type": "spinbutton",
+    "default": 1,
+    "min": 0,
+    "max": 3,
+    "step": 1,
+    "description": "Decimal places",
+    "tooltip": "Number of decimal places to show"
+  },
+  "font-size": {
+    "type": "spinbutton",
+    "default": 100,
+    "min": 50,
+    "max": 125,
+    "step": 5,
+    "description": "Font size",
+    "tooltip": "Label font size"
+  }
+}
